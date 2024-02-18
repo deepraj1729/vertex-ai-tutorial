@@ -1,2 +1,2 @@
 # vertex-ai-tutorial
-Deploy Custom Models to Vertex AI End-to-End using Docker with CI/CD pipelines
+Deploy Custom Models to Google Vertex AI (MLOps End-to-End)
